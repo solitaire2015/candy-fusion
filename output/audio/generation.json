@@ -1,0 +1,54 @@
+[
+  {
+    "kind": "drop",
+    "provider": "fal",
+    "model": "fal-ai/elevenlabs/sound-effects/v2",
+    "task_id": "v2.7714c60a5e044aca94f7d59be9afd126.CW5YnAkoC_854cEbcJWwMeEv2MTZVy7XATvQOvLgR2c",
+    "asset_id": "2b1a44ad-3614-4a1f-a142-bc920c6512af",
+    "request": {
+      "text": "One single adorable soft jelly candy plop for a cute pastel mobile puzzle game: rounded bubbly 'bloop', lightly springy and tactile, tiny woody pop, a very short sweet upward pitch curl. Immediate attack, quick clean decay. Dry close-up isolated one-shot, no voice, no music, no ambience, no harsh high frequencies.",
+      "duration_seconds": 0.5,
+      "prompt_influence": 0.65,
+      "output_format": "mp3_44100_128"
+    }
+  },
+  {
+    "kind": "merge",
+    "provider": "fal",
+    "model": "fal-ai/elevenlabs/sound-effects/v2",
+    "task_id": "v2.5af5887240d44da78f9431396da24f12.oyP84PiRoGGp-nzqanI_m_ekbudQOfBHymw4_5zi2ec",
+    "asset_id": "492ba7d2-d2cb-4514-81d9-ede7c6de4723",
+    "request": {
+      "text": "One adorable candy fusion success sound for a pastel fruit puzzle game: two soft jelly bubbles pop together followed instantly by three tiny ascending marimba and glass-bell notes, a delicate magical sugar sparkle tail. Satisfying warm cute and clean. Short isolated one-shot, immediate attack, no voice, no melody bed, no ambience, no harsh high hiss.",
+      "duration_seconds": 0.9,
+      "prompt_influence": 0.65,
+      "output_format": "mp3_44100_128"
+    }
+  },
+  {
+    "kind": "over",
+    "provider": "fal",
+    "model": "fal-ai/elevenlabs/sound-effects/v2",
+    "task_id": "v2.ae600670e20f4c79821e4d6e80dca4ae.CuN-7-9bBPlx93O4AuBKwGsCm9iTW0kIYG2QcuaFS14",
+    "asset_id": "c585fe9c-dc8a-40ff-bb75-84c7d51991ce",
+    "request": {
+      "text": "A very short gentle friendly 'oops' game-over jingle for an adorable candy game. Three descending round toy-piano notes with a soft cartoon bubble wobble and one tiny comforting glockenspiel sparkle. Sweet and playful, never alarming or sad, no voice, no laughter, no ambience, no loud crash. Isolated one-shot with clean ending.",
+      "duration_seconds": 1.4,
+      "prompt_influence": 0.65,
+      "output_format": "mp3_44100_128"
+    }
+  },
+  {
+    "kind": "music",
+    "provider": "fal",
+    "model": "fal-ai/elevenlabs/music",
+    "task_id": "v2.5fb09705740f4588810f618e4d7177f5.9-55odrONlwE77sX3DQa-M-lLKM9qOPtlS7EY6Z9T6A",
+    "asset_id": "1f4674e7-5b19-4d26-9796-76dc92ae53fb",
+    "request": {
+      "prompt": "Original instrumental background loop for a polished cute pastel fruit candy puzzle game. Light whimsical cozy toy-box music, soft marimba, rounded toy piano, gentle pizzicato strings, occasional delicate glockenspiel sugar sparkles, warm simple bass and very soft shaker. 120 BPM, C major, light swinging feel. A memorable but unobtrusive four-bar motif developed over exactly sixteen bars, 32 seconds. Soft friendly playful magic, leaves space for candy popping sound effects. Continuous steady game loop, same instrumentation and harmony at beginning and end, end leads naturally back to first beat. No intro, no outro, no fade, no dramatic climax, no vocals or speech, no harsh chiptune beeps, no heavy drums, no existing song quotation.",
+      "music_length_ms": 32000,
+      "force_instrumental": true,
+      "output_format": "mp3_44100_128"
+    }
+  }
+]

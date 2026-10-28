@@ -1,0 +1,13 @@
+{
+  "description": "Candy Fusion · 水果糖果合成",
+  "projectname": "candy-fusion",
+  "appid": "testappid",
+  "compileType": "game",
+  "libVersion": "latest",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "minified": false,
+    "enhance": false
+  }
+}

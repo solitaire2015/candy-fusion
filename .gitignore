@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+wechat/project.private.config.json
+wechat/project.local.config.json
+.env
+.env.*
+!.env.example
+
+# Temporary experience QR codes are distributed separately.
+output/wechat/
+*.tsbuildinfo
